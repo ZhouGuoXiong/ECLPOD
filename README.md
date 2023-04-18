@@ -6,11 +6,11 @@ This project aims to implement an Accuracy Compensation Strategy (ECLPOD) to ass
 
 **Dataset**: We have created a large-scale, home-made pear dataset containing 73,51 single pear images, 11,234 few pear images, 12,592 multiple pear images, and 3,421 special pear images (a total of 34,598 pear images and 154,688 precisely marked objects). This dataset has been built using an image acquisition system based on pear sorting equipment, which helps overcome the limitations in detecting the features of the pear body, stem, and calyx in traditional visual methods.
 
-Important Note: The code will be fully open-source after the paper is published. Stay tuned for updates!
+Important Note: The code will be open-source after the paper is published. Stay tuned for updates!
 
 ## Acknowledgments
 
-- YOLOv7: [YOLOv7 repository](https://github.com/YOUR_YOLOv7_REPOSITORY)
+- YOLOv7: [YOLOv7 repository](https://github.com/WongKinYiu/yolov7)
 
 ## Contact
 
