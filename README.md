@@ -1,2 +1,2 @@
-# HBANet
- “A Lightweight Pear Detection Model Using HBANet”
+# ECLPOD
+ “ECLPOD: An Extremely Compressed Lightweight Model for Pear Object Detection”
